@@ -2,6 +2,18 @@
     margin: 0 15px;
     padding: 10px 0 ;
 }
+.poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
 header{
     background-color: #383d58;
     color: white;
@@ -47,4 +59,16 @@ body{
 .escola-titulo{
     padding: 24px 0;
 }
-
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-icone{
+    width: 24px;
+}
+.estudantes-div{
+    text-align: center;
+}
+.estudantes-titulo{
+    text-align: center;
+    padding: 25px 0;
+}
